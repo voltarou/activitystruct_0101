@@ -25,4 +25,4 @@ int main() {
     cout << "\n Alamat: " << mhs.alamat;
     cout << "\n Umur: " << mhs.umur;
 
-}
+} 
